@@ -1,0 +1,68 @@
+﻿Table Name;Column Name;Description;Data Type;Referenz
+Careplans;Id;Primary Key. Unique Identifier of the care plan.;UUID;
+;Start;The date the care plan was initiated.;Date (YYYY-MM-DD);
+;Stop;The date the care plan ended, if applicable.;Date (YYYY-MM-DD);
+;Patient;Foreign key to the Patient.;UUID;
+;Encounter;Foreign key to the Encounter when the care plan was initiated.;UUID;
+;Code;Code from SNOMED-CT;String;https://bioportal.bioontology.org/ontologies/SNOMEDCT/
+;Description;Description of the care plan.;String;
+;ReasonCode;Diagnosis code from SNOMED-CT that this care plan addresses.;String;https://bioportal.bioontology.org/ontologies/SNOMEDCT/
+;ReasonDescription;Description of the reason code.;String;
+Conditions;Start;The date the condition was diagnosed.;Date (YYYY-MM-DD);
+;Stop;The date the condition resolved, if applicable.;Date (YYYY-MM-DD);
+;Patient;Foreign key to the Patient.;UUID;
+;Encounter;Foreign key to the Encounter when the condition was diagnosed.;UUID;
+;Code;Diagnosis code from SNOMED-CT;String;https://bioportal.bioontology.org/ontologies/SNOMEDCT/
+;Description;Description of the condition.;String;
+Immunizations;Date;The date the immunization was administered.;yyyy-MM-dd'T'HH:mm'Z';ISO 8601 UTC Date
+;Patient;Foreign key to the Patient.;UUID;
+;Encounter;Foreign key to the Encounter where the immunization was administered.;UUID;
+;Code;Immunization code from CVX.;String;https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=cvx
+;Description;Description of the immunization.;String;
+;Cost;The line item cost of the immunization.;Numeric;
+Medications;Start;The date and time the medication was prescribed.;yyyy-MM-dd'T'HH:mm'Z';ISO 8601 UTC Date
+;Stop;The date and time the prescription ended, if applicable.;yyyy-MM-dd'T'HH:mm'Z';ISO 8601 UTC Date
+;Patient;Foreign key to the Patient.;UUID;
+;Payer;Foreign key to the Payer.;UUID;
+;Encounter;Foreign key to the Encounter where the medication was prescribed.;UUID;
+;Code;Medication code from RxNorm.;String;https://mor.nlm.nih.gov/RxNav/
+;Description;Description of the medication.;String;
+;Base_Cost;The line item cost of the medication.;Numeric;
+;Payer_Coverage;The amount covered or reimbursed by the Payer.;Numeric;
+;Dispenses;The number of times the prescription was filled.;Numeric;
+;TotalCost;The total cost of the prescription, including all dispenses.;Numeric;
+;ReasonCode;Diagnosis code from SNOMED-CT specifying why this medication was prescribed.;String;https://bioportal.bioontology.org/ontologies/SNOMEDCT/
+;ReasonDescription;Description of the reason code.;String;
+Observations;Date;The date and time the observation was performed.;yyyy-MM-dd'T'HH:mm'Z';ISO 8601 UTC Date
+;Patient;Foreign key to the Patient.;UUID;
+;Encounter;Foreign key to the Encounter where the observation was performed.;UUID;
+;Code;Observation or Lab code from LOINC;String;https://loinc.org/
+;Description;Description of the observation or lab.;String;
+;Value;The recorded value of the observation.;String;
+;Units;The units of measure for the value.;String;
+;Type;The datatype of Value: text or numeric;String;
+Patients;Id;Primary Key. Unique Identifier of the patient.;UUID;
+;BirthDate;The date the patient was born.;Date (YYYY-MM-DD);
+;DeathDate;The date the patient died.;Date (YYYY-MM-DD);
+;SSN;Patient Social Security identifier.;String;
+;Drivers;Patient Drivers License identifier.;String;
+;Passport;Patient Passport identifier.;String;
+;Prefix;Name prefix, such as Mr., Mrs., Dr., etc.;String;
+;First;First name of the patient.;String;
+;Last;Last or surname of the patient.;String;
+;Suffix;Name suffix, such as PhD, MD, JD, etc.;String;
+;Maiden;Maiden name of the patient.;String;
+;Marital;Marital Status. M is married, S is single. Currently no support for divorce (D) or widowing (W);String;
+;Race;Description of the patient's primary race.;String;
+;Ethnicity;Description of the patient's primary ethnicity.;String;
+;Gender;Gender. M is male, F is female.;String;
+;BirthPlace;Name of the town where the patient was born.;String;
+;Address;Patient's street address without commas or newlines.;String;
+;City;Patient's address city.;String;
+;State;Patient's address state.;String;
+;County;Patient's address county.;String;
+;Zip;Patient's zip code.;String;
+;Lat;Latitude of Patient's address.;Numeric;
+;Lon;Longitude of Patient's address.;Numeric;
+;Healthcare_Expenses;The total lifetime cost of healthcare to the patient (i.e. what the patient paid).;Numeric;
+;Healthcare_Coverage;The total lifetime cost of healthcare services that were covered by Payers (i.e. what the insurance company paid).;Numeric;
