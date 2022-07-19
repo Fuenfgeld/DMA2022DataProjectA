@@ -9,7 +9,7 @@ Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred
 ## Analyse
 Die Analyse wurde mithilfe von Pandas in Python durchgeführt. Die Ergebnisse werden mit Seaborn geplottet.
 
-## Ergebiszusammenfassung
+## Ergebniszusammenfassung
 Durch die Analyse erigbt sich, dass prozentual mehr Menschen an COVID-19 sterben, als in unserem Datensatz generell geimpft sind. 19% der an COVID-19 gestorbenen waren nicht gegen Influenza geimpft, allerdings sind nur 1% aller Patienten im Datensatz nicht gegen Influenza geimpft. Aufgrund mangelnder Daten können wir jedoch nicht bestätigen, dass ein Zusammenhang herrscht. Beispielweise könnnten auch Menschen, die sich nicht gegen Influenza impfen lassen auch eher nicht gegen COVID-19 impfen lassen. Betrachtet man die verschiedenen Ethnien, so lässt sich feststellen, dass die Bevölkerungsgruppe "Black, nonhispanic" prozentual gesehen stärker betroffen war als andere Gruppen.
 
 ## Grafische Darstellung des Projektes
