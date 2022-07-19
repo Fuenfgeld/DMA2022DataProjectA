@@ -71,7 +71,7 @@ def get_row_count(tablename):
     return number_of_rows_in_df
 
 def get_csv_length(tablename):
-    csv_length = len(pd.read_csv('../Daten/neue_daten/{}.csv'.format(tablename), sep=","))
+    csv_length = len(pd.read_csv('../Daten/{}.csv'.format(tablename), sep=","))
     return csv_length
 
 

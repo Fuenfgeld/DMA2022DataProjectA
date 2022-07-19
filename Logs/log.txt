@@ -26,3 +26,36 @@ DEBUG:root: 2022-07-19 11:45:48.737677 create_data_warehouse.ipynb closed the co
 DEBUG:root: 2022-07-19 11:45:48.762879 Datewarehouse was created
 DEBUG:root: 2022-07-19 11:48:58.447101 daten_qualitaet.ipynb opened a connection to the database
 DEBUG:root: 2022-07-19 11:49:02.281136 daten_qualitaet.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 11:56:15.126420 create_data_warehouse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 11:56:16.239419 create_data_warehouse.ipyn dropped existing tables in the database
+DEBUG:root: 2022-07-19 11:56:16.326419 create_data_warehouse.ipyn created needed tables in the database
+DEBUG:root: 2022-07-19 11:56:18.942391 create_data_warehouse.ipyn wrote data from csvs into the database
+DEBUG:root: 2022-07-19 11:56:18.973393 create_data_warehouse.ipyn created the facts_table
+DEBUG:root: 2022-07-19 11:56:19.334391 create_data_warehouse.ipyn wrote data into the facts_table
+DEBUG:root: 2022-07-19 11:56:19.668391 create_data_warehouse.ipynb commited changes to the database
+DEBUG:root: 2022-07-19 11:56:19.668391 create_data_warehouse.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 11:56:19.698391 Datewarehouse was created
+DEBUG:root: 2022-07-19 11:56:28.124437 unittests.py opened a connection to the database
+DEBUG:root: 2022-07-19 11:56:29.092436 unittests.py closed the connection to the database
+DEBUG:root: 2022-07-19 11:56:35.762401 daten_qualitaet.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 11:56:39.185420 daten_qualitaet.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 11:56:48.005215 analyse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 11:58:10.721406 analyse.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 12:00:30.019861 create_data_warehouse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 12:01:20.459360 create_data_warehouse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 12:01:21.598369 create_data_warehouse.ipyn dropped existing tables in the database
+DEBUG:root: 2022-07-19 12:01:21.651371 create_data_warehouse.ipyn created needed tables in the database
+DEBUG:root: 2022-07-19 12:01:24.520894 create_data_warehouse.ipyn wrote data from csvs into the database
+DEBUG:root: 2022-07-19 12:01:24.571895 create_data_warehouse.ipyn created the facts_table
+DEBUG:root: 2022-07-19 12:01:25.022894 create_data_warehouse.ipyn wrote data into the facts_table
+DEBUG:root: 2022-07-19 12:01:25.383043 create_data_warehouse.ipynb commited changes to the database
+DEBUG:root: 2022-07-19 12:01:25.383043 create_data_warehouse.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 12:01:25.421044 Datewarehouse was created
+DEBUG:root: 2022-07-19 12:03:44.864410 analyse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 12:04:40.715062 analyse.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 12:04:49.277375 analyse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 12:06:07.504054 analyse.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 12:06:51.372054 unittests.py opened a connection to the database
+DEBUG:root: 2022-07-19 12:06:52.532051 unittests.py closed the connection to the database
+DEBUG:root: 2022-07-19 12:07:23.137678 daten_qualitaet.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 12:07:26.464676 daten_qualitaet.ipynb closed the connection to the database
