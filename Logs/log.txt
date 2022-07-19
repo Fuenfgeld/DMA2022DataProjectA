@@ -59,3 +59,4 @@ DEBUG:root: 2022-07-19 12:06:51.372054 unittests.py opened a connection to the d
 DEBUG:root: 2022-07-19 12:06:52.532051 unittests.py closed the connection to the database
 DEBUG:root: 2022-07-19 12:07:23.137678 daten_qualitaet.ipynb opened a connection to the database
 DEBUG:root: 2022-07-19 12:07:26.464676 daten_qualitaet.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 16:34:45.584324 analyse.ipynb opened a connection to the database
