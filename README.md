@@ -2,6 +2,7 @@
 
 ## Kurzbeschreibung
 Im Rahmen dieses Projekts soll die Frage beantwortet werden, ob es einen Zusammenhang zwischen der Influenzaimpfung und der Anzahl der COVID-19 Todesfälle gibt. Zusätzlich soll beantwortet werden, ob verschiedene Ethnien stärker von dem Virus betroffen sind.
+Die Vorstellung dieses Projektes in Form eines Videos ist HIER!!!!!!! zu finden.
 
 ## Daten
 Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred Heart Hospital in San DiFrangeles, Kalifornien. Daten, die genutzt werden können, um Patienten zu identifizieren, wurden anonymisiert. 
@@ -19,7 +20,7 @@ Durch die Analyse erigbt sich, dass prozentual mehr Menschen an COVID-19 sterben
 In der zweiten Grafik wird deutlich, dass 19% der an Corona gestorbenen Patienten nicht gegen Influenza geimpft wurden.
 ![Kuchendiagramm gestorbene Patienten, 81% geimpfte, 19% ungeimpfte (Bezogen auf die Influenza Impfung)](https://raw.githubusercontent.com/Fuenfgeld/DMA2022DataProjectA/main/Dokumentation/Bilder_analyse/ungeimpft_geimpft_gestorben.png)
 
-ufgrund mangelnder Daten können wir jedoch nicht bestätigen, dass ein Zusammenhang herrscht. Beispielweise könnnten auch Menschen, die sich nicht gegen Influenza impfen lassen auch eher nicht gegen COVID-19 impfen lassen. 
+Aufgrund mangelnder Daten können wir jedoch nicht bestätigen, dass ein Zusammenhang herrscht. Beispielweise könnnten auch Menschen, die sich nicht gegen Influenza impfen lassen auch eher nicht gegen COVID-19 impfen lassen. 
 
 Betrachtet man die verschiedenen Ethnien, so lässt sich feststellen, dass die Bevölkerungsgruppe "Black, nonhispanic" prozentual gesehen stärker betroffen war als andere Gruppen. Die folgenden beiden Grafiken stellen einmal in der erstne Grafik die Verteilung der Ethnien bei allen Patienten und in der zweiten Grafik die Verteilung der Ethnien bei den gestorbenen Patienten dar. 
 
