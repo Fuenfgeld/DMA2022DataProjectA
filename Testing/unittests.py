@@ -2,6 +2,10 @@ import sqlite3
 import unittest
 import pandas as pd
 
+#Die Tests überprüfen, wie viele Einträge (Rows) in der einzulesenen CSV Datei vorhanden sind. Danach wird überprüft, wie viele Rows in der Tabelle in der Datenbank vorhanden sind. Diese beiden
+#Werte müssen identisch sein.
+#Die Faktentabelle setzt sich nur aus bestimmten Tabellen zusammen, auch hier wird überprüft wie viele Rows in der Faktentabelle vorhanden sind. Dieser Wert wird dann mit dem Wert der
+#aufaddierten Rows der genutzten Tabellen verglichen.
 conn = sqlite3.connect('../datawarehouse.db')
 
 class unitTestingBreastCancerClass(unittest.TestCase):
