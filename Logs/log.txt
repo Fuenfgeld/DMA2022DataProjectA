@@ -15,3 +15,14 @@ DEBUG:root: 2022-07-19 10:54:41.897781 create_data_warehouse.ipyn wrote data int
 DEBUG:root: 2022-07-19 10:54:45.411784 create_data_warehouse.ipynb commited changes to the database
 DEBUG:root: 2022-07-19 10:54:45.412785 create_data_warehouse.ipynb closed the connection to the database
 DEBUG:root: 2022-07-19 10:54:47.720059 Datewarehouse was created
+DEBUG:root: 2022-07-19 11:45:45.443870 create_data_warehouse.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 11:45:46.705432 create_data_warehouse.ipyn dropped existing tables in the database
+DEBUG:root: 2022-07-19 11:45:46.764434 create_data_warehouse.ipyn created needed tables in the database
+DEBUG:root: 2022-07-19 11:45:48.333994 create_data_warehouse.ipyn wrote data from csvs into the database
+DEBUG:root: 2022-07-19 11:45:48.372995 create_data_warehouse.ipyn created the facts_table
+DEBUG:root: 2022-07-19 11:45:48.667158 create_data_warehouse.ipyn wrote data into the facts_table
+DEBUG:root: 2022-07-19 11:45:48.736676 create_data_warehouse.ipynb commited changes to the database
+DEBUG:root: 2022-07-19 11:45:48.737677 create_data_warehouse.ipynb closed the connection to the database
+DEBUG:root: 2022-07-19 11:45:48.762879 Datewarehouse was created
+DEBUG:root: 2022-07-19 11:48:58.447101 daten_qualitaet.ipynb opened a connection to the database
+DEBUG:root: 2022-07-19 11:49:02.281136 daten_qualitaet.ipynb closed the connection to the database

@@ -61,7 +61,6 @@ class unitTestingBreastCancerClass(unittest.TestCase):
         logging.debug(" "+str(datetime.datetime.now()) + " unittests.py closed the connection to the database")
     
 
-
 def get_counts(tablename):
     number_of_rows_in_df = get_row_count(tablename)
     number_of_rows_in_csv = get_csv_length(tablename)
