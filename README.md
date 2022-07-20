@@ -6,7 +6,8 @@ Die Vorstellung dieses Projektes in Form eines Videos ist HIER!!!!!!! zu finden.
 
 ## Daten
 Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred Heart Hospital in San DiFrangeles, Kalifornien. Daten, die genutzt werden können, um Patienten zu identifizieren, wurden anonymisiert. 
-* Ausführliche Informationen über die Daten sind im [Datenschutzmanagementplan](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenmanagementplan) zu finden. 
+* [Dieser](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Beschreibung-der-zu-erhebenden-Forschungsdaten) Link führt zur Beschreibung der zu erhebenden Forschungsdaten. Dort sind auch Informationen über die [Quelldaten](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Quelldaten) und den [ETL Prozess](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/ETL-Prozess) zu finden.
+* Ausführliche Informationen über die Daten sind im [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenmanagementplan) zu finden. 
 * Informationen über die Datenqualität und -Integrität sind [hier](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenqualit%C3%A4t-und-Datenintegrit%C3%A4t) auffindbar
 * Wie die Daten der Patienten geschützt werden, ist in der [Datenschutzfolgeabschätztung](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenschutzfolgeabsch%C3%A4tzung) nachzulesen.
 
