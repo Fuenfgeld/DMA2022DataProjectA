@@ -11,6 +11,9 @@ Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred
 * Informationen über die Datenqualität und -Integrität sind [hier](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenqualit%C3%A4t-und-Datenintegrit%C3%A4t) auffindbar
 * Wie die Daten der Patienten geschützt werden, ist in der [Datenschutzfolgeabschätztung](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenschutzfolgeabsch%C3%A4tzung) nachzulesen.
 
+## Grafische Darstellung des Projektes
+![Datenflussdiagramm](https://raw.githubusercontent.com/Fuenfgeld/DMA2022DataProjectA/main/Dokumentation/Datenflussdiagramm.png)
+
 ## Analyse
 Die Analyse wurde mithilfe von Pandas in Python durchgeführt. Die Ergebnisse werden mit Seaborn geplottet. Wie die Analyse nachvollzogen werden kann, ist im Abschnitt [Systemumgebung](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Systemumgebung) zu finden.
 
@@ -32,4 +35,5 @@ Betrachtet man die verschiedenen Ethnien, so lässt sich feststellen, dass die B
 
 Besonders auffällig ist, dass die Bevölkerungsgruppe ("asian, hispanic") im Balkendiagramm der Verteilung der Ethnien unter den gestorbenen nicht vertreten ist.
 
-## Grafische Darstellung des Projektes
+
+
