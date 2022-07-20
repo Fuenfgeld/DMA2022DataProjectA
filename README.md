@@ -18,6 +18,8 @@ Eine Übersicht über die gesamte Projektplanung und ihren Verlauf finden Sie im
 ## Analyse
 Die Analyse wurde mithilfe von Pandas in Python durchgeführt. Die Ergebnisse werden mit Seaborn geplottet. Wie die Analyse nachvollzogen werden kann, ist im Abschnitt [Systemumgebung](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Systemumgebung) zu finden.
 
+Die Analyse kann auch anhand des Colabs Persönlich nachvollzogen werden. [Systemumgebung](https://colab.research.google.com/github/Fuenfgeld/DMA2022DataProjectA/blob/main/Create_Data_Warehouse_and_Analyse.ipynb)
+
 ## Ergebniszusammenfassung
 Durch die Analyse erigbt sich, dass prozentual mehr Menschen an COVID-19 sterben, als in unserem Datensatz generell geimpft sind. In der folgenden Grafik, ist die Verteilung der gegen Influenza geimpften Patienten zu den nicht gegen Influenza Patienten im Datensatz sichtbar
 ![Kuchendiagramm alle Patienten, 99% geimpfte, 1% ungeimpfte (Bezogen auf die Influenza Impfung)](https://raw.githubusercontent.com/Fuenfgeld/DMA2022DataProjectA/main/Dokumentation/Bilder_analyse/ungeimpft_geimpft_alle.png)
