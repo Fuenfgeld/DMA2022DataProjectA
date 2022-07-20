@@ -12,6 +12,7 @@ Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred
 * Wie die Daten der Patienten geschützt werden, ist in der [Datenschutzfolgeabschätztung](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenschutzfolgeabsch%C3%A4tzung) nachzulesen.
 
 ## Grafische Darstellung des Projektes
+Eine Übersicht über die gesamte Projektplanung und ihren Verlauf finden Sie im [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Datenmanagementplan).
 ![Datenflussdiagramm](https://raw.githubusercontent.com/Fuenfgeld/DMA2022DataProjectA/main/Dokumentation/Datenflussdiagramm.png)
 
 ## Analyse
