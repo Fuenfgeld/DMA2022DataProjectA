@@ -36,7 +36,7 @@ Betrachtet man die verschiedenen Ethnien, so lässt sich feststellen, dass die B
  
 ![Balkendiagramm Ethnien aller Patienten](https://raw.githubusercontent.com/Fuenfgeld/DMA2022DataProjectA/main/Dokumentation/Bilder_analyse/verteilung_ethnien_gestorben.png)
 
-Besonders auffällig ist, dass die Bevölkerungsgruppe ("asian, hispanic") im Balkendiagramm der Verteilung der Ethnien unter den gestorbenen nicht vertreten ist.
+Besonders auffällig ist, dass die Bevölkerungsgruppe ("asian, nonhispanic") im Balkendiagramm der Verteilung der Ethnien unter den gestorbenen nicht vertreten ist.
 
 
 
