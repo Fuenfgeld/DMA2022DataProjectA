@@ -39,4 +39,5 @@ Betrachtet man die verschiedenen Ethnien, so lässt sich feststellen, dass die B
 Besonders auffällig ist, dass die Bevölkerungsgruppe ("asian, nonhispanic") im Balkendiagramm der Verteilung der Ethnien unter den gestorbenen nicht vertreten ist.
 
 
+Disclaimer: In dem Projekt wurden synthetische Daten verwendet. Keine echten Patienten Data (siehe https://github.com/synthetichealth/synthea)
 
