@@ -2,7 +2,7 @@
 
 ## Kurzbeschreibung
 Im Rahmen dieses Projekts soll die Frage beantwortet werden, ob es einen Zusammenhang zwischen der Influenzaimpfung und der Anzahl der COVID-19 Todesfälle gibt. Zusätzlich soll beantwortet werden, ob verschiedene Ethnien stärker von dem Virus betroffen sind.
-Die Vorstellung dieses Projektes in Form eines Videos ist HIER!!!!!!! zu finden.
+Die Vorstellung dieses Projektes in Form eines Videos ist [hier](https://drive.google.com/drive/folders/19r3n-OIAKq-FDZ1-2eK1mm_ANkQpQPtD) zu finden.
 
 ## Daten
 Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred Heart Hospital in San DiFrangeles, Kalifornien. Daten, die genutzt werden können, um Patienten zu identifizieren, wurden anonymisiert. 
