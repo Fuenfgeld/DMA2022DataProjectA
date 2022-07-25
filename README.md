@@ -4,6 +4,10 @@
 Im Rahmen dieses Projekts soll die Frage beantwortet werden, ob es einen Zusammenhang zwischen der Influenzaimpfung und der Anzahl der COVID-19 Todesfälle gibt. Zusätzlich soll beantwortet werden, ob verschiedene Ethnien stärker von dem Virus betroffen sind.
 Die Vorstellung dieses Projektes in Form eines Videos ist [hier](https://drive.google.com/drive/folders/19r3n-OIAKq-FDZ1-2eK1mm_ANkQpQPtD) zu finden.
 
+### Projekt Video
+[![Watch the video](https://img.youtube.com/vi/7PuTK-M2GiU/maxresdefault.jpg)](https://youtu.be/7PuTK-M2GiU)
+https://youtu.be/7PuTK-M2GiU
+
 ## Daten
 Die Daten, die zur Beantwortung der Frage genutzt werden, stammen aus dem Sacred Heart Hospital in San DiFrangeles, Kalifornien. Daten, die genutzt werden können, um Patienten zu identifizieren, wurden anonymisiert. 
 * [Dieser](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Beschreibung-der-zu-erhebenden-Forschungsdaten) Link führt zur Beschreibung der zu erhebenden Forschungsdaten. Dort sind auch Informationen über die [Quelldaten](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/Quelldaten) und den [ETL Prozess](https://github.com/Fuenfgeld/DMA2022DataProjectA/wiki/ETL-Prozess) zu finden.
